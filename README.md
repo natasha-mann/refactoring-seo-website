@@ -1,7 +1,7 @@
 ## Title
 Week 1 homework - refactoring
 
-## Dsecription
+## Description
 
 ## Screenshots
 
