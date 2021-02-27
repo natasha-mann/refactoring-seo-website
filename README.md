@@ -17,7 +17,8 @@ Week 1 homework - refactoring HTML + CSS
 
 ![image](https://user-images.githubusercontent.com/75756325/109402092-e2877100-794a-11eb-8a22-3289d9d9a92f.png)
 
-![image](https://user-images.githubusercontent.com/75756325/109402103-fc28b880-794a-11eb-8e6b-aa2ca6d68264.png)
+![image](https://user-images.githubusercontent.com/75756325/109402143-5164ca00-794b-11eb-9a6f-b40adf53fce7.png)
+
 
 ## Link to the deployed appication
 https://natasha-mann.github.io/week-1-homework/
