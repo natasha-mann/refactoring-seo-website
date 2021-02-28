@@ -13,7 +13,7 @@ Week 1 homework - refactoring HTML + CSS
  - including comments before each element or section of the page.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/75756325/109402077-b8ce4a00-794a-11eb-9506-a4b4750113aa.png)
+![image](https://user-images.githubusercontent.com/75756325/109425045-48710880-79de-11eb-87e4-090ba45be08f.png)
 
 ![image](https://user-images.githubusercontent.com/75756325/109402092-e2877100-794a-11eb-8a22-3289d9d9a92f.png)
 
