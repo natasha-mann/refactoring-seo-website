@@ -1,6 +1,10 @@
-## Title
+# Horiseon Project
 
 Week 1 homework - refactoring HTML + CSS
+
+## Project Link
+
+Click [here](https://natasha-mann.github.io/week-1-homework/) to view the project on GitHub pages.
 
 ## Description
 
@@ -19,17 +23,14 @@ As a final result all links now function as intended, the HTML and CSS sheets ar
 
 ## Screenshots
 
-Full screen grab of week-1-homework deployed page
+### Full screen grab of deployed GitHub page
+
 ![screencapture-natasha-mann-github-io-week-1-homework-2021-03-03-20_23_33](https://user-images.githubusercontent.com/75756325/109868429-7fa21c80-7c5f-11eb-95f3-481341841072.png)
 
-Side by side of deployed page (left) and instructor demo page (right) part 1
+### Side by side of deployed page (left) and instructor demo page (right) part 1
 
 ![image](https://user-images.githubusercontent.com/75756325/109868918-28e91280-7c60-11eb-9644-f2aaee04f023.png)
 
-Side by side of deployed page (left) and instructor demo page (right) part 2
+### Side by side of deployed page (left) and instructor demo page (right) part 2
 
 ![image](https://user-images.githubusercontent.com/75756325/109869141-69489080-7c60-11eb-99da-0945472a4ccb.png)
-
-## Link to the deployed application
-
-https://natasha-mann.github.io/week-1-homework/
