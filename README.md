@@ -4,7 +4,7 @@ Week 1 homework - refactoring HTML + CSS
 
 ## Project Link
 
-Click [here](https://natasha-mann.github.io/week-1-homework/) to view the project on GitHub pages.
+Click [here](https://natasha-mann.github.io/refactoring-seo-website/) to view the project on GitHub pages.
 
 ## Description
 
